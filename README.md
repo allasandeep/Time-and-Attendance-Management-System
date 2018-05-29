@@ -1,6 +1,6 @@
-1.To run this project go to CMD then go to the project directory and type npm install to install the node packages. 
-2.Now download the php-rest-api-for-TMS repository from my git and copy the php slim api and api folders to htdocs folder of the Xampp server. 
-3.Now again go to project directory in cmd and type npm start to start the project.
+To run this project go to CMD then go to the project directory and type npm install to install the node packages. 
+Now download the php-rest-api-for-TMS repository from my git and copy the php slim api and api folders to htdocs folder of the Xampp server. 
+Now again go to project directory in cmd and type npm start to start the project.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
