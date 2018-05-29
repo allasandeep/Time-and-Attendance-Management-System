@@ -1,0 +1,18 @@
+@media all and (min-width: 480px) {
+    .Login {
+      padding: 60px 0;
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      max-width: 400px;
+      min-height: 350px;
+    }
+  }
+
+  .modal-container {
+    position: relative;
+  }
+  .modal-container .modal, .modal-container .modal-backdrop {
+    position: absolute;
+  }

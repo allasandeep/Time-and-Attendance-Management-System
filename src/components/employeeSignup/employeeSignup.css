@@ -1,0 +1,20 @@
+@media all and (min-width: 480px) {
+  .Signup {
+    padding: 60px 0;
+  }
+
+  .Signup form {
+    margin: 0 auto;
+    max-width: 600px;
+    min-height: 350px;
+  }
+
+}
+
+.modal-container {
+  position: relative;
+}
+.modal-container .modal, .modal-container .modal-backdrop {
+  position: absolute;
+}
+
