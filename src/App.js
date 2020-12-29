@@ -18,7 +18,7 @@ class App extends Component {
   constructor(props){
     super(props);
     this.state={
-      appName : 'Time Management System',
+      appName : 'Attendance Management System',
       isAuthenticated: false     
     };
   }
